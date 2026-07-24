@@ -353,6 +353,3 @@ https://github.com/presidentialclient
 
 Linkedin:
 www.linkedin.com/in/racheltmarshall
-
-LinkedIn:
-(Add LinkedIn profile link)
